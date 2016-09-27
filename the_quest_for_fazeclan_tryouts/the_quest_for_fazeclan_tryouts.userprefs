@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{E2E5C5E8-5F5F-407C-A28F-2DED239BA2E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="the_quest_for_fazeclan_tryouts/Program.cs">
+    <Files>
+      <File FileName="the_quest_for_fazeclan_tryouts/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.the__quest__for__fazeclan__tryouts PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
