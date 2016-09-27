@@ -6,7 +6,7 @@ namespace the_quest_for_fazeclan_tryouts
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Fisk");
+			Console.WriteLine("Lolle");
 		}
 	}
 }
